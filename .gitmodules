@@ -1,3 +1,6 @@
 [submodule "ds004169"]
 	path = sourcedata/ds004169
 	url = https://github.com/OpenNeuroDatasets/ds004169.git
+[submodule "ds004169-mriqc"]
+	path = derivatives/MRIQC-23.0.1
+	url = https://github.com/OpenNeuroDerivatives/ds004169-mriqc.git
