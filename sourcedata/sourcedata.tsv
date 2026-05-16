@@ -1,2 +1,2 @@
-source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds004169	1202	1342	1	2	2453	1342	0	57671840451	16081832665	23510738	713781.5675849915	290.98310949245473	361709568	147456.0	anat,func
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds004169	1202	1342	1	2	2453	1342	0	57671840451	16081832665	23510738	713781.5675849915	290.98310949245473	361709568	147456.0	nback,rest	339896	{"2.1":2453}	anat,func
